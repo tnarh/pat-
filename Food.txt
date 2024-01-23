@@ -2,3 +2,4 @@ potato.html|Potato
 tomato.html|Tomato
 cucumber.html|Cucumber
 burger.html|Burger
+hotdog.html|Hotdog
