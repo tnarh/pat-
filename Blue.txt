@@ -1,0 +1,4 @@
+hrantsmouse.html|Hrants mouse
+hrantskey.html|Hrants keyboard
+hrantcube.html|Hrants cube
+hrantjacket.html|Hrants jacket
