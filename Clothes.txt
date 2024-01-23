@@ -1,3 +1,4 @@
 shirt.html|Shirt
 pants.html|Pants
 socks.html|Socks
+jacket.html|Jacket
