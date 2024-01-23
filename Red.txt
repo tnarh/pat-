@@ -1,2 +1,3 @@
-Rose
-Watermelon
+rose.html|Rose
+watermelon.html|Watermelon
+hrantbottle.html|Hrants bottle
