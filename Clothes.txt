@@ -1,3 +1,3 @@
-Shirt
-Pants
-Socks
+shirt.html|Shirt
+pants.html|Pants
+socks.html|Socks
